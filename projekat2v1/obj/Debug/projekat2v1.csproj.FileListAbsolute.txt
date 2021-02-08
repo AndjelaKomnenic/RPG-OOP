@@ -1,0 +1,10 @@
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\bin\Debug\projekat2v1.exe.config
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\bin\Debug\projekat2v1.exe
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\bin\Debug\projekat2v1.pdb
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\obj\Debug\projekat2v1.csprojAssemblyReference.cache
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\obj\Debug\projekat2v1.Form1.resources
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\obj\Debug\projekat2v1.Properties.Resources.resources
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\obj\Debug\projekat2v1.csproj.GenerateResource.cache
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\obj\Debug\projekat2v1.csproj.CoreCompileInputs.cache
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\obj\Debug\projekat2v1.exe
+E:\SkProg\OOP Kuzmolini uwu PIPJ\Projekat2 overworld\projekat2v1\projekat2v1\obj\Debug\projekat2v1.pdb
